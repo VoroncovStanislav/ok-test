@@ -1,0 +1,44 @@
+.navbar__wrap .menu > li > a.active, .navbar__wrap .menu > li > a:hover {
+  color: orange;
+}
+
+.flex button:hover{
+  background-color: rgb(255, 123, 0);
+  border: 2px solid rgb(255, 123, 0);
+}
+
+.forma_whatsapp_block button:hover{
+  background-color: rgb(255, 123, 0);
+  border: 2px solid rgb(255, 123, 0);
+}
+
+.cian_item button:hover{
+  background-color: rgb(255, 123, 0);
+  border: 2px solid rgb(255, 123, 0);
+}
+.title_container button:hover{
+  background-color: rgb(255, 123, 0);
+  border: 2px solid rgb(255, 123, 0);
+}
+
+.contact_form2 input[type='submit']:hover{
+  background-color: rgb(255, 123, 0);
+  border: 2px solid rgb(255, 123, 0);
+}
+
+.contact_form1 input[type='submit']:hover{
+  background-color: #009933;
+  border: 2px solid #009933;
+}
+.contact_form input[type='submit']:hover{
+  background-color: rgb(255, 123, 0);
+  border: 2px solid rgb(255, 123, 0);
+}
+
+.accordion-item:hover {
+  background-color: white;
+}
+
+.PR p:hover {
+  text-decoration:underline;
+}
